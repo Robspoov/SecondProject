@@ -1,2 +1,2 @@
 # SecondProject
-MySecond Project
+MySecond Project   Hello for second project!
